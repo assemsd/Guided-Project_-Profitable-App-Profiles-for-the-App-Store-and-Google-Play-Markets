@@ -1,4 +1,4 @@
-# Guided-Project_-Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets
+# Guided Project - Profitable App Profiles for the App Store and Google Play Markets
 My first project 
 
 In this project, we went through a complete data science workflow:
